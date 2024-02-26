@@ -14,7 +14,7 @@ class Program
             arr[i] = Console.ReadLine()!;
         }
 
-        // Формитирование нового массива
+        // Форматирование нового массива
         string[] newArr = new string[n];
         for (int i = 0; i < n; i++)
         {
